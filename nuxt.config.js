@@ -3,6 +3,6 @@
 export default {
     target: 'static',
     router: {
-        base: '/portfolio/'
+        base: 'front-team-hokoha.github.io/portfolio/'
       }
   }
