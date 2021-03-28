@@ -3,6 +3,10 @@
 export default {
     target: 'static',
     router: {
-        base: 'front-team-hokoha.github.io/portfolio/'
-      }
+        base: '/portfolio/'
+    },
+    generate: {
+        // nom du dossier de distribution (docs pour gh-pages)
+        dir: 'docs'
+    }
   }

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/weCert", {data:[{}],fetch:{},mutations:void 0});

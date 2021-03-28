@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{162:function(t,e,n){"use strict";n.r(e);var o=n(32),component=Object(o.a)({},(function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("main",[n("h1",[t._v("Portfolio Hokoha")]),t._v(" "),n("NuxtLink",{attrs:{to:"/wecert"}},[t._v("wecert")])],1)}),[],!1,null,null,null);e.default=component.exports}}]);
