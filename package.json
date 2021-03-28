@@ -4,9 +4,11 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "generate": "nuxt generate",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "push-dir": "^0.4.1"
   }
 }
